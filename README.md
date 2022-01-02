@@ -22,7 +22,9 @@ https://www.figma.com/file/fFhUc3HPxhbeZo6PVvDf4T/Untitled?node-id=0%3A1
 
 Notes for the assingment:
 
-Two Github repositories were created for this project. The first one is here: https://github.com/Chughes3393/Bukowski-v-Shakespeare. The Github repository that you are accessing has two branches, master and main, master has the most commits to it.
+Two Github repositories were created for this project. The first one is here: https://github.com/Chughes3393/Bukowski-v-Shakespeare, and the second one is here: https://github.com/Chughes3393/Buk_V_Shak_Beta, which has two branches, master and main, master has the most commits to it.
+
+This website is deployed by netlify here: https://gifted-swirles-183f0c.netlify.app/
 
 Stengths: My game works, meets assignment requirements, and is usable in the console. The Javascript logic works everytime and gives you a winner and loser. This game is creative and gives the user something to walk away with. My game is also open-ended so I can keep coming back to it and add more functionality.
 
